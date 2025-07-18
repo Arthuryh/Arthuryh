@@ -12,7 +12,7 @@
 
 - 🎓 **Graduado** em Análise e Desenvolvimento de Sistemas  
 - 💼 **Analista de Projetos** com foco em soluções tecnológicas e automações de processos  
-- 💡 **Desenvolvedor Web** com experiência em aplicações completas (frontend e backend)  
+- 💡 **Desenvolvedor Web** com experiência acadêmica em aplicações completas (frontend e backend)  
 - 📊 Domínio em **Power BI**, **PowerApps** e **KNIME** para análises, automações e integrações de dados
 
 ---
