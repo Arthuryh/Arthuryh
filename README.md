@@ -32,7 +32,7 @@ Tenho um perfil analítico, com foco em resolver problemas de forma prática e e
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-00758F?style=for-the-badge&logo=mysql&logoColor=white)
-![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 ![PowerApps](https://img.shields.io/badge/PowerApps-742774?style=for-the-badge&logo=powerapps&logoColor=white)
 ![KNIME](https://img.shields.io/badge/KNIME-F8B500?style=for-the-badge&logo=knime&logoColor=black)
 ![VSCode](https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
