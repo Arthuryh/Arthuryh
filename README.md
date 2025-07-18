@@ -1,6 +1,7 @@
 # 👋 Bem-vindo(a)! Me chamo Arthur Hayakawa
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=0A66C2)](https://www.linkedin.com/in/arthur-hayakawa)
+[![Boot.dev](https://img.shields.io/badge/Boot.dev-000?style=for-the-badge&logo=bookstack&logoColor=00BFFF)]([https://boot.dev](https://www.boot.dev/u/arthurhayakawa))
 
 <p align="left">
   <text>Estou aprendendo desenvolvimento Back-end na plataforma boot.dev!</text>
