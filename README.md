@@ -4,9 +4,11 @@
 [![Boot.dev](https://img.shields.io/badge/Boot.dev-000?style=for-the-badge&logo=bookstack&logoColor=00BFFF)](https://www.boot.dev/u/arthurhayakawa)
 [![Duolingo](https://img.shields.io/badge/Duolingo-000?style=for-the-badge&logo=openbadges&logoColor=58CC02)](https://www.duolingo.com/profile/arthur.hayakawa)
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Arthuryh)](https://github.com/anuraghazra/github-readme-stats)
+## 🙋‍♂️ Sobre mim
 
----
+Sou apaixonado por tecnologia e inovação, atuando com desenvolvimento de soluções que conectam dados, automação e interfaces eficientes. Ao longo da carreira, já atuei em projetos envolvendo controle de qualidade, automatizações com Power Platform, desenvolvimento web com Node.js/React e análise de dados com Power BI e KNIME. Atualmente estudando com o objetivo de migrar para a carreira de Desenvolvedor .NET.
+
+Tenho um perfil analítico, com foco em resolver problemas de forma prática e estratégica. Atuo no setor de Telecomunicações, onde implementei soluções usadas em decisões operacionais, que resultaram em ganhos reais.
 
 - 🎓 **Graduado** em Análise e Desenvolvimento de Sistemas  
 - 💼 **Analista de Projetos** com foco em soluções tecnológicas e automações de processos  
@@ -15,11 +17,9 @@
 
 ---
 
-## 🙋‍♂️ Sobre mim
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Arthuryh)](https://github.com/anuraghazra/github-readme-stats)
 
-Sou apaixonado por tecnologia e inovação, atuando com desenvolvimento de soluções que conectam dados, automação e interfaces eficientes. Ao longo da carreira, já atuei em projetos envolvendo controle de qualidade, automatizações com Power Platform, desenvolvimento web com Node.js/React e análise de dados com Power BI e KNIME.
-
-Tenho um perfil analítico, com foco em resolver problemas de forma prática e estratégica. Também tenho experiência no setor de Telecomunicações, onde implementei soluções usadas em decisões operacionais, que resultaram em ganhos reais.
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Arthuryh)](https://github.com/anuraghazra/github-readme-stats)
 
 ---
 
