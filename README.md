@@ -4,10 +4,7 @@
 [![Boot.dev](https://img.shields.io/badge/Boot.dev-000?style=for-the-badge&logo=bookstack&logoColor=00BFFF)](https://www.boot.dev/u/arthurhayakawa)
 [![Duolingo](https://img.shields.io/badge/Duolingo-000?style=for-the-badge&logo=openbadges&logoColor=58CC02)](https://www.duolingo.com/profile/arthur.hayakawa)
 
-<p align="left">
-  <text>Estou aprendendo desenvolvimento Back-end na plataforma boot.dev!</text>
-  <img src="https://api.boot.dev/v1/users/public/0e728c03-08ff-4c3a-a0d3-3437249f19b7/thumbnail" >
-</p>
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Arthuryh)](https://github.com/anuraghazra/github-readme-stats)
 
 ---
 
