@@ -16,8 +16,8 @@ Tenho um perfil analítico, com foco em resolver problemas de forma prática e e
 - 📊 Domínio em **Power BI**, **PowerApps** e **KNIME** para análises, automações e integrações de dados
 
 ---
-
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Arthuryh)](https://github.com/anuraghazra/github-readme-stats) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Arthuryh&size_weight=0.5&count_weight=0.5)
+| ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Arthuryh)](https://github.com/anuraghazra/github-readme-stats) | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Arthuryh&size_weight=0.5&count_weight=0.5) |
+| :-: | :-: | 
 
 ---
 
