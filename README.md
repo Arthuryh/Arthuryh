@@ -21,14 +21,13 @@ Atualmente, atuo no setor de Telecomunicações como Analista de Projetos, onde 
 * 💡 **Objetivo:** Migrar para Desenvolvedor de Aplicações .NET / C#
 * 📊 **Domínio:** Power BI, PowerApps e KNIME para análises, automações e integrações de dados
 
----
 
-## 📈 Meus Dados no GitHub
+<!-- ## 📈 Meus Dados no GitHub
 ---
 | ![](https://github-readme-stats.vercel.app/api?username=Arthuryh) | ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Arthuryh&size_weight=0.5&count_weight=0.5) |
 | :-: | :-: | 
----
-
+-->
+--- 
 ## 🛠 Tecnologias e Ferramentas
 
 ### 💻 Linguagens e Frameworks
