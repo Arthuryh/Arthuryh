@@ -25,10 +25,9 @@ Atualmente, atuo no setor de Telecomunicações como Analista de Projetos, onde 
 
 ## 📈 Meus Dados no GitHub
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Arthuryh&show_icons=true&theme=transparent&hide_border=true" height="150" alt="Estatísticas do GitHub do Arthur" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Arthuryh&layout=compact&theme=transparent&hide_border=true" height="150" alt="Linguagens mais utilizadas" />
-</div>
+| ![](https://github-readme-stats.vercel.app/api?username=Arthuryh) | ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Arthuryh&size_weight=0.5&count_weight=0.5) |
+
+| :-: | :-: | 
 
 ---
 
