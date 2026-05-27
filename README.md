@@ -12,7 +12,7 @@
 
 Sou apaixonado por tecnologia e inovação, focado em desenvolver soluções que conectam dados, automação e interfaces eficientes. Tenho um perfil analítico e prático, buscando sempre resolver problemas de forma estratégica. 
 
-Atualmente, atuo no setor de Telecomunicações como Analista de Serviços (foco em Análise de Dados), onde implemento soluções com foco em construção de Dashboards operacionais que geram decisões baseadas em dados. Minha jornada técnica inclui análise de dados usando Tableau, automatizações de fluxo com KNIME, e desenvolvimento de aplicações .NET.
+Atualmente, atuo no setor de Telecomunicações como Analista de Serviços Técnicos (foco em Análise de Dados), onde implemento soluções com foco em construção de Dashboards operacionais que geram decisões baseadas em dados. Minha jornada técnica inclui análise de dados usando Tableau, automatizações de fluxo com KNIME, e desenvolvimento de aplicações .NET.
 
 * 🎓 **Formação:** Graduado em Análise e Desenvolvimento de Sistemas
 * 💼 **Atuação:** Analista de Serviços Técnicos (Foco em Análise de Dados e automatizações de fluxos)
