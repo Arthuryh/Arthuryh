@@ -12,14 +12,12 @@
 
 Sou apaixonado por tecnologia e inovação, focado em desenvolver soluções que conectam dados, automação e interfaces eficientes. Tenho um perfil analítico e prático, buscando sempre resolver problemas de forma estratégica. 
 
-Atualmente, atuo no setor de Telecomunicações como Analista de Projetos, onde implementei soluções focadas em decisões operacionais que geraram ganhos reais para o negócio. Minha jornada técnica inclui controle de qualidade, automatizações com Power Platform, desenvolvimento web com Node.js/React e análise de dados usando Power BI e KNIME.
-
-🎯 **Meu foco atual:** Estou estudando intensamente e desenvolvendo projetos com o objetivo de migrar minha carreira para **Desenvolvedor .NET**.
+Atualmente, atuo no setor de Telecomunicações como Analista de Serviços (foco em Análise de Dados), onde implemento soluções com foco em construção de Dashboards operacionais que geram decisões baseadas em dados. Minha jornada técnica inclui análise de dados usando Tableau, automatizações de fluxo com KNIME, e desenvolvimento de aplicações .NET.
 
 * 🎓 **Formação:** Graduado em Análise e Desenvolvimento de Sistemas
-* 💼 **Atuação:** Analista de Projetos (Foco em soluções tecnológicas e automações de processos)
+* 💼 **Atuação:** Analista de Serviços Técnicos (Foco em Análise de Dados e automatizações de fluxos)
 * 💡 **Objetivo:** Migrar para Desenvolvedor de Aplicações .NET / C#
-* 📊 **Domínio:** Power BI, PowerApps e KNIME para análises, automações e integrações de dados
+* 📊 **Domínio:** Power BI, PowerApps, Tableu, KNIME para análises, automações e integrações de dados
 
 
 <!-- ## 📈 Meus Dados no GitHub
